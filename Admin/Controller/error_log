@@ -1,0 +1,537 @@
+[14-Aug-2020 07:34:25 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:34:25 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:34:41 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:34:41 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:37:18 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:37:18 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:39:45 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:39:45 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:41:49 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:41:49 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:41:51 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:41:51 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:41:52 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:41:52 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:42:24 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:42:24 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: NO) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:44:54 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:44:54 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:45:23 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:45:23 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:46:14 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:46:14 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConn->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:46:39 America/New_York] PHP Warning:  include_once(Model/AdminLogin.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 3
+[14-Aug-2020 07:46:39 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/AdminLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 3
+[14-Aug-2020 07:46:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'AdminLogin' not found in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 5
+[14-Aug-2020 07:47:26 America/New_York] PHP Warning:  Creating default object from empty value in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 10
+[14-Aug-2020 07:47:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::Login() in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 27
+[14-Aug-2020 07:48:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConn' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 07:48:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConn' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 07:49:22 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:49:22 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:49:40 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:49:40 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:50:18 America/New_York] PHP Fatal error:  Uncaught Error: Cannot access private property AdminLogin::$username in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 10
+[14-Aug-2020 07:50:29 America/New_York] PHP Fatal error:  Uncaught Error: Cannot access private property AdminLogin::$username in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 10
+[14-Aug-2020 07:51:23 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:51:23 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:51:43 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:51:43 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:52:00 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:52:00 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:52:29 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:52:29 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConnection2->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:53:24 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:53:24 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConn->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:53:26 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:53:26 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConn->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:53:27 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:53:27 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConn->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:53:29 America/New_York] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 15
+[14-Aug-2020 07:53:29 America/New_York] PHP Fatal error:  Uncaught Exception: DB Connect error Access denied for user 'root'@'localhost' (using password: YES) in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php:18
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php(12): DBConn->Connect()
+#1 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#2 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/dbConnection.php on line 18
+[14-Aug-2020 07:54:01 America/New_York] PHP Warning:  include_once(../../user/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 2
+[14-Aug-2020 07:54:01 America/New_York] PHP Warning:  include_once(): Failed opening '../../user/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 2
+[14-Aug-2020 07:54:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 07:54:03 America/New_York] PHP Warning:  include_once(../../user/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 2
+[14-Aug-2020 07:54:03 America/New_York] PHP Warning:  include_once(): Failed opening '../../user/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 2
+[14-Aug-2020 07:54:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 07:54:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 07:55:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 07:56:01 America/New_York] PHP Warning:  Creating default object from empty value in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 10
+[14-Aug-2020 07:56:16 America/New_York] PHP Warning:  Creating default object from empty value in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 10
+[14-Aug-2020 07:56:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::Login() in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 27
+[14-Aug-2020 07:56:18 America/New_York] PHP Warning:  Creating default object from empty value in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 10
+[14-Aug-2020 07:56:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::Login() in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 27
+[14-Aug-2020 07:56:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 07:57:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 08:00:09 America/New_York] PHP Warning:  Creating default object from empty value in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 10
+[14-Aug-2020 08:00:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::Login() in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 27
+[14-Aug-2020 08:01:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(5): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 08:02:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'AdminLoin' not found in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 4
+[14-Aug-2020 08:04:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(6): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 08:04:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:11
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(6): AdminLogin->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 11
+[14-Aug-2020 08:05:15 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 75
+[14-Aug-2020 08:06:57 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 75
+[14-Aug-2020 08:09:59 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 75
+[14-Aug-2020 08:12:45 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 75
+[14-Aug-2020 08:14:41 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 75
+[14-Aug-2020 08:16:48 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 08:19:46 America/New_York] PHP Fatal error:  Uncaught Exception: Login Failed in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:71
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(21): AdminLogin->Login(true)
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 71
+[14-Aug-2020 08:19:47 America/New_York] PHP Fatal error:  Uncaught Exception: Login Failed in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:71
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(21): AdminLogin->Login(true)
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 71
+[14-Aug-2020 08:20:30 America/New_York] PHP Fatal error:  Uncaught Exception: Login Failed in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:71
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(21): AdminLogin->Login(true)
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 71
+[14-Aug-2020 08:20:32 America/New_York] PHP Fatal error:  Uncaught Exception: Login Failed in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php:71
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php(21): AdminLogin->Login(true)
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 71
+[14-Aug-2020 08:22:44 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 08:24:59 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 08:31:48 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 08:33:29 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 11:44:06 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 11:58:30 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:00:29 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:04:04 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:06:40 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:14:46 America/New_York] PHP Notice:  Undefined index: rememberlogin in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 25
+[14-Aug-2020 12:14:46 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:18:23 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:20:08 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:21:19 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:21:24 America/New_York] PHP Notice:  Undefined index: email in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 11
+[14-Aug-2020 12:21:24 America/New_York] PHP Notice:  Undefined index: password in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 16
+[14-Aug-2020 12:21:53 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 47
+[14-Aug-2020 12:21:56 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 47
+[14-Aug-2020 12:22:12 America/New_York] PHP Notice:  Undefined index: email in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 11
+[14-Aug-2020 12:22:12 America/New_York] PHP Notice:  Undefined index: password in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 16
+[14-Aug-2020 12:22:24 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:22:39 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:25:00 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:27:29 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:30:20 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:30:34 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:31:23 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:31:43 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:32:48 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 12:33:56 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 13:15:11 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 32
+[14-Aug-2020 13:15:11 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 13:15:45 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 32
+[14-Aug-2020 13:15:45 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 13:16:28 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 32
+[14-Aug-2020 13:16:28 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 13:21:38 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 32
+[14-Aug-2020 13:21:38 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 13:27:50 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 32
+[14-Aug-2020 13:27:50 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[14-Aug-2020 13:47:37 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 32
+[14-Aug-2020 13:47:37 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[15-Aug-2020 05:23:06 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 32
+[15-Aug-2020 05:23:06 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[15-Aug-2020 06:14:28 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/www.trandinggo.com/Admin/Controller/AdminLoginController.php on line 32
+[15-Aug-2020 06:14:28 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/www.trandinggo.com/Admin/Model/AdminLogin.php on line 76
+[26-Aug-2020 00:57:52 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[26-Aug-2020 00:57:52 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[26-Aug-2020 00:58:30 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[26-Aug-2020 00:58:30 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[26-Aug-2020 01:20:12 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:20:12 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(35): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:22:03 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:22:03 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:23:04 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:23:04 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:32:47 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:32:47 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:32:51 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:32:51 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:33:03 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[26-Aug-2020 01:33:03 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[26-Aug-2020 01:33:18 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:33:18 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:34:08 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:34:08 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:36:26 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:36:26 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:44:56 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:44:56 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:45:10 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:45:10 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:45:59 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:45:59 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:46:10 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:46:10 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:51:50 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:51:50 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:52:42 America/New_York] PHP Notice:  Undefined variable: extension in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 81
+[26-Aug-2020 01:52:42 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:98
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[26-Aug-2020 01:55:29 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 01:55:44 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 01:56:25 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 01:57:46 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 01:58:47 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 01:58:57 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 02:00:19 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[26-Aug-2020 02:00:19 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[26-Aug-2020 02:00:36 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(31): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 02:02:12 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(30): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 02:02:15 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(30): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 02:02:28 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[26-Aug-2020 02:02:28 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[26-Aug-2020 02:02:46 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(30): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 02:03:21 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(30): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 02:03:39 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(30): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 02:05:40 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[26-Aug-2020 02:05:40 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[26-Aug-2020 02:14:44 America/New_York] PHP Fatal error:  Uncaught Exception: Your file is not upload in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:104
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(30): ExtraWork->upload_work_file('')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 104
+[26-Aug-2020 02:15:07 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[26-Aug-2020 02:15:07 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[26-Aug-2020 16:04:41 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[26-Aug-2020 16:04:41 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[26-Aug-2020 16:16:54 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:16:56 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:16:56 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:16:57 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:16:57 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:16:57 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:16:57 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:16:57 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:16:58 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:16:58 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:03 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:04 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:04 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:04 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:04 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:04 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:04 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:04 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:04 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:05 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:05 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:05 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:05 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:05 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:05 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:05 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:12 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:13 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:14 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:14 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:14 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:15 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:15 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:16 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:16 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:16 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:17:16 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[26-Aug-2020 16:18:08 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[27-Aug-2020 14:32:51 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[27-Aug-2020 14:32:51 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[27-Aug-2020 14:33:43 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[27-Aug-2020 14:33:43 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[27-Aug-2020 14:34:16 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[27-Aug-2020 14:34:16 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[27-Aug-2020 14:44:08 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[27-Aug-2020 14:44:08 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76
+[27-Aug-2020 14:59:04 America/New_York] PHP Warning:  mkdir(): No such file or directory in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 98
+[27-Aug-2020 14:59:04 America/New_York] PHP Fatal error:  Uncaught Exception: Failde to create folder in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php:99
+Stack trace:
+#0 /home/merioidr/digitizingstar.com/Admin/Controller/DeliverOrderController.php(30): ExtraWork->upload_work_file('/tmp/phpGHTSEL')
+#1 {main}
+  thrown in /home/merioidr/digitizingstar.com/Admin/Model/ExtraWork.php on line 99
+[27-Aug-2020 15:26:59 America/New_York] PHP Notice:  Undefined property: stdClass::$status in /home/merioidr/digitizingstar.com/Admin/Model/generate_invoice.php on line 279
+[27-Aug-2020 15:33:56 America/New_York] PHP Notice:  Undefined variable: rememberlogin in /home/merioidr/digitizingstar.com/Admin/Controller/AdminLoginController.php on line 32
+[27-Aug-2020 15:33:56 America/New_York] PHP Notice:  Undefined property: stdClass::$password in /home/merioidr/digitizingstar.com/Admin/Model/AdminLogin.php on line 76

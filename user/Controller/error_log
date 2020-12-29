@@ -1,0 +1,23 @@
+[14-Aug-2020 02:39:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/Controller/Multiple_order_delete.php(5): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:39:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/Controller/Single_Record_Delete.php(3): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:39:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/Controller/Single_Record_Delete.php(3): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:50:06 America/New_York] PHP Notice:  Undefined variable: single_id in /home/merioidr/www.trandinggo.com/user/Controller/Single_Record_Delete.php on line 8
+[27-Aug-2020 14:43:37 America/New_York] PHP Notice:  Undefined variable: single_id in /home/merioidr/digitizingstar.com/user/Controller/Single_Received_Record_Delete.php on line 8
+[27-Aug-2020 15:00:33 America/New_York] PHP Notice:  Undefined variable: single_id in /home/merioidr/digitizingstar.com/user/Controller/Single_Received_Record_Delete.php on line 8
+[27-Aug-2020 15:00:37 America/New_York] PHP Notice:  Undefined variable: single_id in /home/merioidr/digitizingstar.com/user/Controller/Single_Received_Record_Delete.php on line 8
+[27-Aug-2020 15:00:44 America/New_York] PHP Notice:  Undefined variable: single_id in /home/merioidr/digitizingstar.com/user/Controller/Single_Received_Record_Delete.php on line 8
+[27-Aug-2020 15:00:47 America/New_York] PHP Notice:  Undefined variable: single_id in /home/merioidr/digitizingstar.com/user/Controller/Single_Received_Record_Delete.php on line 8
+[27-Aug-2020 15:18:19 America/New_York] PHP Notice:  Undefined variable: single_id in /home/merioidr/digitizingstar.com/user/Controller/Single_Received_Record_Delete.php on line 8
+[27-Aug-2020 15:27:38 America/New_York] PHP Notice:  Undefined variable: single_id in /home/merioidr/digitizingstar.com/user/Controller/Single_Record_Delete.php on line 8

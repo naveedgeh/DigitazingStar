@@ -1,0 +1,109 @@
+[14-Aug-2020 08:30:34 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 08:30:50 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 08:31:03 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 08:31:32 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 08:33:49 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 08:33:52 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 08:33:52 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 08:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 08:34:07 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 11:57:37 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 11:57:40 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 11:57:40 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 11:57:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 11:57:47 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:19:09 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:19:12 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:19:12 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:19:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:21:16 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:21:19 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:19 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:21:19 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:19 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:21:21 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:21 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:21:50 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:21:52 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:52 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:21:52 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:52 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:21:57 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:57 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:23:57 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:24:00 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:24:00 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:24:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:27:26 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:27:29 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:27:29 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:27:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:27:59 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:28:01 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:28:01 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:28:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 9
+[14-Aug-2020 13:28:44 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:28:47 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:28:47 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/transfer.php on line 1
+[14-Aug-2020 13:29:49 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:30:00 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:33:19 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:35:27 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:40:22 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 13:48:03 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 14:01:40 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[14-Aug-2020 14:03:29 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[15-Aug-2020 05:31:03 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[15-Aug-2020 05:43:50 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[15-Aug-2020 05:45:45 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[15-Aug-2020 05:45:52 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[15-Aug-2020 05:45:56 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[15-Aug-2020 05:46:08 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[15-Aug-2020 05:48:54 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[15-Aug-2020 06:14:42 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[15-Aug-2020 06:16:37 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/www.trandinggo.com/Admin/Popup_Data/View_Details.php on line 181
+[27-Aug-2020 14:34:41 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/digitizingstar.com/Admin/Popup_Data/View_Details.php on line 181
+[27-Aug-2020 15:19:07 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/digitizingstar.com/Admin/Popup_Data/View_Details.php on line 181
+[27-Aug-2020 15:34:13 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/merioidr/digitizingstar.com/Admin/Popup_Data/View_Details.php on line 181

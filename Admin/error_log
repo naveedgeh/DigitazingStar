@@ -1,0 +1,144 @@
+[14-Aug-2020 08:25:22 America/New_York] PHP Warning:  include_once(../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php on line 4
+[14-Aug-2020 08:25:22 America/New_York] PHP Warning:  include_once(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php on line 4
+[14-Aug-2020 08:25:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php on line 56
+[14-Aug-2020 08:25:51 America/New_York] PHP Warning:  include_once(../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php on line 4
+[14-Aug-2020 08:25:51 America/New_York] PHP Warning:  include_once(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php on line 4
+[14-Aug-2020 08:25:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php on line 56
+[14-Aug-2020 08:28:07 America/New_York] PHP Warning:  include_once(../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 08:28:07 America/New_York] PHP Warning:  include_once(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 08:28:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 39
+[14-Aug-2020 08:34:46 America/New_York] PHP Warning:  include_once(../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 08:34:46 America/New_York] PHP Warning:  include_once(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 08:34:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 39
+[14-Aug-2020 11:43:52 America/New_York] PHP Warning:  include_once(../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 11:43:52 America/New_York] PHP Warning:  include_once(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 11:43:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 39
+[14-Aug-2020 11:44:13 America/New_York] PHP Warning:  include_once(../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 11:44:13 America/New_York] PHP Warning:  include_once(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 11:44:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 39
+[14-Aug-2020 11:44:18 America/New_York] PHP Warning:  include_once(../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 11:44:18 America/New_York] PHP Warning:  include_once(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 4
+[14-Aug-2020 11:44:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 39
+[14-Aug-2020 11:46:16 America/New_York] PHP Warning:  include(Sidebar.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:46:16 America/New_York] PHP Warning:  include(): Failed opening 'Sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:46:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:46:19 America/New_York] PHP Warning:  include(Sidebar.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:46:19 America/New_York] PHP Warning:  include(): Failed opening 'Sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:46:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:46:55 America/New_York] PHP Warning:  include(Sidebar.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:46:55 America/New_York] PHP Warning:  include(): Failed opening 'Sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:46:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:46:58 America/New_York] PHP Warning:  include(Sidebar.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:46:58 America/New_York] PHP Warning:  include(): Failed opening 'Sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:46:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:47:25 America/New_York] PHP Warning:  include(Sidebar.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:47:25 America/New_York] PHP Warning:  include(): Failed opening 'Sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:47:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:47:28 America/New_York] PHP Warning:  include(Sidebar.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:47:28 America/New_York] PHP Warning:  include(): Failed opening 'Sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:47:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:48:21 America/New_York] PHP Warning:  include(Sidebar.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:48:21 America/New_York] PHP Warning:  include(): Failed opening 'Sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 6
+[14-Aug-2020 11:50:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:51:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:51:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:53:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:53:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:53:59 America/New_York] PHP Warning:  include_once(../Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 3
+[14-Aug-2020 11:53:59 America/New_York] PHP Warning:  include_once(): Failed opening '../Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 3
+[14-Aug-2020 11:53:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:54:03 America/New_York] PHP Warning:  include_once(../Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/work.php on line 3
+[14-Aug-2020 11:54:03 America/New_York] PHP Warning:  include_once(): Failed opening '../Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/work.php on line 3
+[14-Aug-2020 11:54:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/work.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/work.php on line 41
+[14-Aug-2020 11:55:47 America/New_York] PHP Warning:  include_once(../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php on line 4
+[14-Aug-2020 11:55:47 America/New_York] PHP Warning:  include_once(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php on line 4
+[14-Aug-2020 11:55:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/received_order_admin.php on line 56
+[27-Aug-2020 15:02:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:02:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:02:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:09:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:11:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:11:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:12:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:13:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:14:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:23:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:23:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:23:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:25:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:25:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:25:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:36:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:37:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2
+[27-Aug-2020 15:37:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/merioidr/digitizingstar.com/Admin/header.php on line 2

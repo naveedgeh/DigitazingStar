@@ -1,0 +1,130 @@
+[14-Aug-2020 02:39:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:39:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:40:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:41:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:41:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:41:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:41:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:42:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:42:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:42:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26
+[14-Aug-2020 02:42:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/user/Model/Order.php:26
+Stack trace:
+#0 /home/merioidr/www.trandinggo.com/user/View/ViewDetail.php(32): Order->__construct()
+#1 {main}
+  thrown in /home/merioidr/www.trandinggo.com/user/Model/Order.php on line 26

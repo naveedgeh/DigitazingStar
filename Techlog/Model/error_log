@@ -1,0 +1,12 @@
+[14-Aug-2020 15:31:26 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Techlog/Model/Status_Update.php on line 2
+[14-Aug-2020 15:31:26 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Techlog/Model/Status_Update.php on line 2
+[14-Aug-2020 15:31:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Techlog/Model/Status_Update.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Techlog/Model/Status_Update.php on line 3
+[14-Aug-2020 15:31:36 America/New_York] PHP Warning:  include_once(../../dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Techlog/Model/Status_Update.php on line 2
+[14-Aug-2020 15:31:36 America/New_York] PHP Warning:  include_once(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Techlog/Model/Status_Update.php on line 2
+[14-Aug-2020 15:31:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection' not found in /home/merioidr/www.trandinggo.com/Techlog/Model/Status_Update.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Techlog/Model/Status_Update.php on line 3

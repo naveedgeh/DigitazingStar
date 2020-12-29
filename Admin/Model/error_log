@@ -1,0 +1,68 @@
+[14-Aug-2020 13:30:17 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:30:17 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:30:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:33:32 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:33:32 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:33:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:33:40 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:33:40 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:33:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:34:05 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:34:05 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:34:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:34:08 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:34:08 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:34:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:35:47 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:35:47 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:35:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:36:55 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:36:55 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:36:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:37:27 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:37:27 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:37:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:37:51 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:37:51 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:37:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:38:39 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:38:39 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:38:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:39:00 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:39:00 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DBConnection2' not found in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 3
+[14-Aug-2020 13:39:25 America/New_York] PHP Warning:  include_once(Model/dbConnection.php): failed to open stream: No such file or directory in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
+[14-Aug-2020 13:39:25 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/dbConnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/merioidr/www.trandinggo.com/Admin/Model/transferModal.php on line 2
